@@ -10,3 +10,6 @@ I'm hoping to use a small speaker that doesn't need extra power (or usb if that)
 
 Sample of how lovely it will be when this plugin is done:
 https://youtu.be/mvz3LRK263E?t=211
+
+Resources for later:
+https://docs.octoprint.org/en/master/plugins/gettingstarted.html
