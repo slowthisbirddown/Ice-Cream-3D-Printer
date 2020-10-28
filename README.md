@@ -17,3 +17,5 @@ Resources for later:
 https://docs.octoprint.org/en/master/plugins/gettingstarted.html
 
 https://docs.octoprint.org/en/master/plugins/python3_migration.html
+
+https://github.com/OctoPrint/cookiecutter-octoprint-plugin
