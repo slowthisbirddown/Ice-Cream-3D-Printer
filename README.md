@@ -7,3 +7,6 @@ I will be using a raspberry pi 3B+ with this and my printer is on an SKR board. 
 
 I'm hoping to use a small speaker that doesn't need extra power (or usb if that) that will work off the 3.5mm jack on the raspberry pi. From within Octoprint I want to be able to turn off which sounds I want on or off (For me personally it would be nice to know right when a print finishes without waiting for an email from the spaghetti detective plugin)
 
+
+Sample of how lovely it will be when this plugin is done:
+https://youtu.be/mvz3LRK263E?t=211
